@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomViewStudy.iml" filepath="$PROJECT_DIR$/CustomViewStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_event_dispatch/lib_event_dispatch.iml" filepath="$PROJECT_DIR$/lib_event_dispatch/lib_event_dispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_third/lib_third.iml" filepath="$PROJECT_DIR$/lib_third/lib_third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqstepview/qqstepview.iml" filepath="$PROJECT_DIR$/qqstepview/qqstepview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <attr name="fixed_arc_color" format="color"></attr>
+        <attr name="dynamic_arc_color" format="color"></attr>
+        <attr name="arc_border_width" format="dimension"></attr>
+        <attr name="step_text_size" format="dimension"></attr>
+        <attr name="step_text_color" format="color"></attr>
+    </declare-styleable>
+</resources>
